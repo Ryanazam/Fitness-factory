@@ -10,12 +10,12 @@ const Footer = () => {
       <Stack gap="20px" alignItems="center" px="10px" pt="24px">
         <img src={Logo} alt="logo" />
         <Typography variant="h6"x  >
-        Made with ❤️ by Tauasiful Haque
+        Made with ❤️ by Ryan Azam
         </Typography>
         <Box mb="20px" style={{display:"flex", flexDirection:"row", justifyContent:"space-between"}} width="240px">
-          <a style={{color:"black"}} href="http://www.github.com/tausif39" target="_blank"><GitHub fontSize="large"/></a>
-          <a style={{color:"blue"}} href="https://www.linkedin.com/in/tausif39/" target="_blank"><LinkedIn fontSize="large" /></a>
-          <a style={{color:"purple"}} href="https://www.instagram.com/tausif_39/" target="_blank"><Instagram fontSize="large" /></a>
+          <a style={{color:"black"}} href="http://www.github.com/Ryanazam" target="_blank"><GitHub fontSize="large"/></a>
+          <a style={{color:"blue"}} href="https://www.linkedin.com/in/ryan-azam-12459a1b9/" target="_blank"><LinkedIn fontSize="large" /></a>
+          <a style={{color:"purple"}} href="https://www.instagram.com/ryanazam007/" target="_blank"><Instagram fontSize="large" /></a>
         </Box>
       </Stack>
     </Box>
